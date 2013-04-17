@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Jekyll Bootstrap
-url: http://cospring.me
+url: http://www.cospring.me
 tagline: Site Tagline
 author :
   name : Name Lastname
