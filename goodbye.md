@@ -3,6 +3,7 @@ layout: page
 title: 春寒料峭 
 tagline: Supporting tagline
 ---    
+{% include JB/setup %}
     光看日期，大概就可以知道下面要讲什么了吧~~
 
     哎~~大学这种东西，怎么说呢？
